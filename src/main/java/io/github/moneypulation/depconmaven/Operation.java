@@ -1,4 +1,4 @@
-package com.github.moneypulation.depconmaven;
+package io.github.moneypulation.depconmaven;
 
 import java.math.BigDecimal;
 

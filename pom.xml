@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.moneypulation</groupId>
+    <groupId>io.github.moneypulation</groupId>
     <artifactId>depconmaven</artifactId>
     <version>1.0.0</version>
     <build>
@@ -113,7 +113,7 @@
         <developer>
             <name>Cemal Kaygusuz</name>
             <email>cemalkaygusuz97@gmail.com</email>
-            <organization>com.github.moneypulation</organization>
+            <organization>io.github.moneypulation</organization>
             <organizationUrl>http://github.com/Moneypulation/</organizationUrl>
         </developer>
     </developers>
